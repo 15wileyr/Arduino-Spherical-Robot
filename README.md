@@ -2,7 +2,7 @@
 College Mechanical Engineering Capstone
 
 
-![](Images/Robot1.png)
+
 ![](Images/Robot2.png)
 ![](Images/Robot3.png)
 ![](Images/Robot4.png)
